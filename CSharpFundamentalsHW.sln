@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Age", "Age\Age.csproj", "{2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LongSequence", "LongSequence\LongSequence.csproj", "{2B1F4F63-BF64-43EC-BF71-3DD4CB994183}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuotesInStrings", "QuotesInStrings\QuotesInStrings.csproj", "{A5F17537-CC75-4B80-BD2F-D5F0DAEA7F81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{2B1F4F63-BF64-43EC-BF71-3DD4CB994183}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B1F4F63-BF64-43EC-BF71-3DD4CB994183}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B1F4F63-BF64-43EC-BF71-3DD4CB994183}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5F17537-CC75-4B80-BD2F-D5F0DAEA7F81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5F17537-CC75-4B80-BD2F-D5F0DAEA7F81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5F17537-CC75-4B80-BD2F-D5F0DAEA7F81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5F17537-CC75-4B80-BD2F-D5F0DAEA7F81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
