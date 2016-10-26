@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonGravity", "MoonGravity\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevideBy7and5", "DevideBy7and5\DevideBy7and5.csproj", "{F2CC1ACE-6E4F-4139-AF55-09AE49D8AD39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangles", "Rectangles\Rectangles.csproj", "{6279C84C-E074-4D96-97BA-E9FA1F409C03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{F2CC1ACE-6E4F-4139-AF55-09AE49D8AD39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2CC1ACE-6E4F-4139-AF55-09AE49D8AD39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2CC1ACE-6E4F-4139-AF55-09AE49D8AD39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6279C84C-E074-4D96-97BA-E9FA1F409C03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6279C84C-E074-4D96-97BA-E9FA1F409C03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6279C84C-E074-4D96-97BA-E9FA1F409C03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6279C84C-E074-4D96-97BA-E9FA1F409C03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
