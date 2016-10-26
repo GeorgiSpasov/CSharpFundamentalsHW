@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{91EB66E9-9AED-4810-920D-C00FC7D8E4BF}"
 EndProject
@@ -20,6 +20,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparingFloats", "ComparingFloats\ComparingFloats.csproj", "{D7CA75ED-2098-4CFA-96B3-A86F3971931A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintTheASCIITable", "PrintTheASCIITable\PrintTheASCIITable.csproj", "{98596AF7-9EAC-44AA-8203-5CDEB128F0E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOrEven", "OddOrEven\OddOrEven.csproj", "{79957DFE-BE39-4310-91FF-B53E53374074}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{98596AF7-9EAC-44AA-8203-5CDEB128F0E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98596AF7-9EAC-44AA-8203-5CDEB128F0E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98596AF7-9EAC-44AA-8203-5CDEB128F0E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79957DFE-BE39-4310-91FF-B53E53374074}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79957DFE-BE39-4310-91FF-B53E53374074}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79957DFE-BE39-4310-91FF-B53E53374074}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79957DFE-BE39-4310-91FF-B53E53374074}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
