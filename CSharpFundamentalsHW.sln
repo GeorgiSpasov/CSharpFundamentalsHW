@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trapezoids", "Trapezoids\Tr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdBit", "ThirdBit\ThirdBit.csproj", "{54BF57B9-5C3E-40B4-B208-20199037E6EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBit", "NBit\NBit.csproj", "{95AF4A08-F926-4A6F-BF70-DBB3821E03AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{54BF57B9-5C3E-40B4-B208-20199037E6EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54BF57B9-5C3E-40B4-B208-20199037E6EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54BF57B9-5C3E-40B4-B208-20199037E6EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95AF4A08-F926-4A6F-BF70-DBB3821E03AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AF4A08-F926-4A6F-BF70-DBB3821E03AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AF4A08-F926-4A6F-BF70-DBB3821E03AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AF4A08-F926-4A6F-BF70-DBB3821E03AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
