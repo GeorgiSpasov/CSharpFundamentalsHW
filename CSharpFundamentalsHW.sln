@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBit", "NBit\NBit.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeCheck", "PrimeCheck\PrimeCheck.csproj", "{7EC82A93-5B06-4601-8875-F484AF5D33D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModifyBit", "ModifyBit\ModifyBit.csproj", "{1F7C0682-ACB9-4BB9-8521-E9DA6C8D2B85}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -129,6 +131,10 @@ Global
 		{7EC82A93-5B06-4601-8875-F484AF5D33D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7EC82A93-5B06-4601-8875-F484AF5D33D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7EC82A93-5B06-4601-8875-F484AF5D33D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F7C0682-ACB9-4BB9-8521-E9DA6C8D2B85}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F7C0682-ACB9-4BB9-8521-E9DA6C8D2B85}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F7C0682-ACB9-4BB9-8521-E9DA6C8D2B85}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F7C0682-ACB9-4BB9-8521-E9DA6C8D2B85}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
