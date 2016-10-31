@@ -21,7 +21,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.13.ComparingFloats", "Com
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.14.PrintTheASCIITable", "PrintTheASCIITable\2.14.PrintTheASCIITable.csproj", "{98596AF7-9EAC-44AA-8203-5CDEB128F0E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOrEven", "OddOrEven\OddOrEven.csproj", "{79957DFE-BE39-4310-91FF-B53E53374074}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.01.OddOrEven", "OddOrEven\3.01.OddOrEven.csproj", "{79957DFE-BE39-4310-91FF-B53E53374074}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonGravity", "MoonGravity\MoonGravity.csproj", "{2A17E85B-AE31-4AEE-9689-6E656C28D7C1}"
 EndProject
