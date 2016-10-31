@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{91EB66E9-9AED-4810-920D-C00FC7D8E4BF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.4.HelloWorld", "HelloWorld\1.4.HelloWorld.csproj", "{91EB66E9-9AED-4810-920D-C00FC7D8E4BF}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintNumbers", "PrintNumbers\PrintNumbers.csproj", "{A1FB2D2D-1AB8-4FCC-A708-862CE36E2320}"
 EndProject
