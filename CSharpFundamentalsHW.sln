@@ -67,7 +67,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.11.Interval", "Interval\4
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.01.ExchangeIfGreater", "ExchangeIfGreater\5.01.ExchangeIfGreater.csproj", "{9B6DDB03-28B2-418D-AB2E-1E2E671FEFE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BonusScore", "BonusScore\BonusScore.csproj", "{75651ECC-44B8-48ED-83BF-D71FB470A747}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.02.BonusScore", "BonusScore\5.02.BonusScore.csproj", "{75651ECC-44B8-48ED-83BF-D71FB470A747}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
