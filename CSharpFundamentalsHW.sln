@@ -43,7 +43,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.12.NthBit", "NBit\3.12.Nt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.08.PrimeCheck", "PrimeCheck\3.08.PrimeCheck.csproj", "{7EC82A93-5B06-4601-8875-F484AF5D33D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModifyBit", "ModifyBit\ModifyBit.csproj", "{1F7C0682-ACB9-4BB9-8521-E9DA6C8D2B85}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.13.ModifyBit", "ModifyBit\3.13.ModifyBit.csproj", "{1F7C0682-ACB9-4BB9-8521-E9DA6C8D2B85}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfThreeNumbers", "SumOfThreeNumbers\SumOfThreeNumbers.csproj", "{13483387-ACB4-4E63-AF4C-63A9E028D2F2}"
 EndProject
