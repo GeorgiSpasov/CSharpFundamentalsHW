@@ -25,7 +25,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.01.OddOrEven", "OddOrEven
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.02.MoonGravity", "MoonGravity\3.02.MoonGravity.csproj", "{2A17E85B-AE31-4AEE-9689-6E656C28D7C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevideBy7and5", "DevideBy7and5\DevideBy7and5.csproj", "{F2CC1ACE-6E4F-4139-AF55-09AE49D8AD39}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.03.DevideBy7and5", "DevideBy7and5\3.03.DevideBy7and5.csproj", "{F2CC1ACE-6E4F-4139-AF55-09AE49D8AD39}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangles", "Rectangles\Rectangles.csproj", "{6279C84C-E074-4D96-97BA-E9FA1F409C03}"
 EndProject
