@@ -33,7 +33,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.05.ThirdDigit", "ThirdDig
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.06.FourDigits", "FourDigits\3.06.FourDigits.csproj", "{230C5254-07FC-4479-9E85-001224415216}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointInACircle", "PointInACircle\PointInACircle.csproj", "{2C89F57D-69C3-45EF-83DE-C7EBF54B41D5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.07.PointInACircle", "PointInACircle\3.07.PointInACircle.csproj", "{2C89F57D-69C3-45EF-83DE-C7EBF54B41D5}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trapezoids", "Trapezoids\Trapezoids.csproj", "{4DFE3D3E-23D8-416D-B55D-34D240478C4F}"
 EndProject
