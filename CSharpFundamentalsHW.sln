@@ -31,7 +31,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.04.Rectangles", "Rectangl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.05.ThirdDigit", "ThirdDigit\3.05.ThirdDigit.csproj", "{B455B9F5-FEAF-451C-82D1-8D27053928BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FourDigits", "FourDigits\FourDigits.csproj", "{230C5254-07FC-4479-9E85-001224415216}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.06.FourDigits", "FourDigits\3.06.FourDigits.csproj", "{230C5254-07FC-4479-9E85-001224415216}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PointInACircle", "PointInACircle\PointInACircle.csproj", "{2C89F57D-69C3-45EF-83DE-C7EBF54B41D5}"
 EndProject
