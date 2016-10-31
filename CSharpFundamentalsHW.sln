@@ -49,7 +49,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.01.SumOfThreeNumbers", "S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.02.CompanyInfo", "CompanyInfo\4.02.CompanyInfo.csproj", "{F849EFCA-2BBC-42AC-8884-EE4A50D8042D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Circle", "Circle\Circle.csproj", "{8F37487E-4ED7-4DB2-A9CD-6380E564A264}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.03.Circle", "Circle\4.03.Circle.csproj", "{8F37487E-4ED7-4DB2-A9CD-6380E564A264}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberComparer", "NumberComparer\NumberComparer.csproj", "{2A6C3BC5-2A71-45F2-8551-95F9EB57FDC6}"
 EndProject
