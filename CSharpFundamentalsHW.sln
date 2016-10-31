@@ -17,7 +17,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.16.LongSequence", "LongSe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.7.QuotesInStrings", "QuotesInStrings\2.7.QuotesInStrings.csproj", "{A5F17537-CC75-4B80-BD2F-D5F0DAEA7F81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparingFloats", "ComparingFloats\ComparingFloats.csproj", "{D7CA75ED-2098-4CFA-96B3-A86F3971931A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.13.ComparingFloats", "ComparingFloats\2.13.ComparingFloats.csproj", "{D7CA75ED-2098-4CFA-96B3-A86F3971931A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintTheASCIITable", "PrintTheASCIITable\PrintTheASCIITable.csproj", "{98596AF7-9EAC-44AA-8203-5CDEB128F0E1}"
 EndProject
