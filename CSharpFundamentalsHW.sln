@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.09.IntDoubleAndString", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.04.FormattingNumbers", "FormattingNumbers\4.04.FormattingNumbers.csproj", "{F6DBFE4D-4C75-4EED-9B6E-702AA5F51BDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.01.NumbersFrom1toNv2", "NumbersFrom1toNv2\6.01.NumbersFrom1toNv2.csproj", "{918094F3-103D-4C08-81A4-2C4DF1B80D4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{F6DBFE4D-4C75-4EED-9B6E-702AA5F51BDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6DBFE4D-4C75-4EED-9B6E-702AA5F51BDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6DBFE4D-4C75-4EED-9B6E-702AA5F51BDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{918094F3-103D-4C08-81A4-2C4DF1B80D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918094F3-103D-4C08-81A4-2C4DF1B80D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918094F3-103D-4C08-81A4-2C4DF1B80D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918094F3-103D-4C08-81A4-2C4DF1B80D4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
