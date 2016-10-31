@@ -63,7 +63,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.09.SumOfNNumbers", "SumOf
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.10.FibonacciNumbers", "FibonacciNumbers\4.10.FibonacciNumbers.csproj", "{CD485263-0171-4065-B5F9-3AB7D2805356}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interval", "Interval\Interval.csproj", "{6B447753-F5F1-402C-B10B-3D160E15CDD7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.11.Interval", "Interval\4.11.Interval.csproj", "{6B447753-F5F1-402C-B10B-3D160E15CDD7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
