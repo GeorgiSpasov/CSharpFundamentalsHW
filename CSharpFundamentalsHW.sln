@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.7.QuotesInStrings", "Quot
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.13.ComparingFloats", "ComparingFloats\2.13.ComparingFloats.csproj", "{D7CA75ED-2098-4CFA-96B3-A86F3971931A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintTheASCIITable", "PrintTheASCIITable\PrintTheASCIITable.csproj", "{98596AF7-9EAC-44AA-8203-5CDEB128F0E1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.14.PrintTheASCIITable", "PrintTheASCIITable\2.14.PrintTheASCIITable.csproj", "{98596AF7-9EAC-44AA-8203-5CDEB128F0E1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOrEven", "OddOrEven\OddOrEven.csproj", "{79957DFE-BE39-4310-91FF-B53E53374074}"
 EndProject
