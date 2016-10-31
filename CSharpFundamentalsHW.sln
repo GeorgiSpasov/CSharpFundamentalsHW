@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.06.PrintNumbers", "PrintN
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.08.SquareRoot", "SquareRoot\1.08.SquareRoot.csproj", "{EF3ED0B0-B266-4C4C-BDB4-CA441CA573CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.9.PrintSequence", "PrintSequence\1.9.PrintSequence.csproj", "{64D30482-F76B-4E9D-B6E9-467B26EB23E8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.09.PrintSequence", "PrintSequence\1.09.PrintSequence.csproj", "{64D30482-F76B-4E9D-B6E9-467B26EB23E8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.15.Age", "Age\1.15.Age.csproj", "{2B469A53-A651-4909-A2B0-54B6B9F7ED34}"
 EndProject
