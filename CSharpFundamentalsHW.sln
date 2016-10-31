@@ -55,7 +55,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.05.NumbersComparer", "Num
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.06.QuadraticEquation", "QuadraticEquation\4.06.QuadraticEquation.csproj", "{ABB70179-54A0-4522-B5C3-CFE73F85A5D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfFiveNumbers", "SumOfFiveNumbers\SumOfFiveNumbers.csproj", "{97AB37C9-B82F-4140-A423-A2B4E50D7112}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.07.SumOfFiveNumbers", "SumOfFiveNumbers\4.07.SumOfFiveNumbers.csproj", "{97AB37C9-B82F-4140-A423-A2B4E50D7112}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersFrom1toN", "NumbersFrom1toN\NumbersFrom1toN.csproj", "{BC10BC48-1690-4994-A4BE-8862CC158C4E}"
 EndProject
