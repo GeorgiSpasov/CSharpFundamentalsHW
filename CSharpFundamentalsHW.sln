@@ -23,7 +23,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.14.PrintTheASCIITable", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.01.OddOrEven", "OddOrEven\3.01.OddOrEven.csproj", "{79957DFE-BE39-4310-91FF-B53E53374074}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoonGravity", "MoonGravity\MoonGravity.csproj", "{2A17E85B-AE31-4AEE-9689-6E656C28D7C1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.02.MoonGravity", "MoonGravity\3.02.MoonGravity.csproj", "{2A17E85B-AE31-4AEE-9689-6E656C28D7C1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DevideBy7and5", "DevideBy7and5\DevideBy7and5.csproj", "{F2CC1ACE-6E4F-4139-AF55-09AE49D8AD39}"
 EndProject
