@@ -57,7 +57,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.06.QuadraticEquation", "Q
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.07.SumOfFiveNumbers", "SumOfFiveNumbers\4.07.SumOfFiveNumbers.csproj", "{97AB37C9-B82F-4140-A423-A2B4E50D7112}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersFrom1toN", "NumbersFrom1toN\NumbersFrom1toN.csproj", "{BC10BC48-1690-4994-A4BE-8862CC158C4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.08.NumbersFrom1toN", "NumbersFrom1toN\4.08.NumbersFrom1toN.csproj", "{BC10BC48-1690-4994-A4BE-8862CC158C4E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfNNumbers", "SumOfNNumbers\SumOfNNumbers.csproj", "{8553F8D8-440D-43FE-A7A5-880F17426D28}"
 EndProject
