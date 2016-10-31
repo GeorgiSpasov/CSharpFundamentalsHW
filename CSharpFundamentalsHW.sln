@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.10.FibonacciNumbers", "Fi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.11.Interval", "Interval\4.11.Interval.csproj", "{6B447753-F5F1-402C-B10B-3D160E15CDD7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.01.ExchangeIfGreater", "ExchangeIfGreater\5.01.ExchangeIfGreater.csproj", "{9B6DDB03-28B2-418D-AB2E-1E2E671FEFE5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{6B447753-F5F1-402C-B10B-3D160E15CDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B447753-F5F1-402C-B10B-3D160E15CDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B447753-F5F1-402C-B10B-3D160E15CDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B6DDB03-28B2-418D-AB2E-1E2E671FEFE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6DDB03-28B2-418D-AB2E-1E2E671FEFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B6DDB03-28B2-418D-AB2E-1E2E671FEFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B6DDB03-28B2-418D-AB2E-1E2E671FEFE5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
