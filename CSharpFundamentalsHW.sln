@@ -89,6 +89,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.01.NumbersFrom1toNv2", "N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.02.NotDivisibleNumbers", "NotDivisibleNumbers\6.02.NotDivisibleNumbers.csproj", "{2F3A2879-C884-4F1D-815F-0A1E63D48139}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.03.MMSAofNNumbers", "MMSAofNNumbers\6.03.MMSAofNNumbers.csproj", "{775C556B-36A1-47F4-860B-114C7062CC07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -267,6 +269,10 @@ Global
 		{2F3A2879-C884-4F1D-815F-0A1E63D48139}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F3A2879-C884-4F1D-815F-0A1E63D48139}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F3A2879-C884-4F1D-815F-0A1E63D48139}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775C556B-36A1-47F4-860B-114C7062CC07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775C556B-36A1-47F4-860B-114C7062CC07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775C556B-36A1-47F4-860B-114C7062CC07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775C556B-36A1-47F4-860B-114C7062CC07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
