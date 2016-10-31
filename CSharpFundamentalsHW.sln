@@ -51,7 +51,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.02.CompanyInfo", "Company
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.03.Circle", "Circle\4.03.Circle.csproj", "{8F37487E-4ED7-4DB2-A9CD-6380E564A264}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumberComparer", "NumberComparer\NumberComparer.csproj", "{2A6C3BC5-2A71-45F2-8551-95F9EB57FDC6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.05.NumbersComparer", "NumberComparer\4.05.NumbersComparer.csproj", "{2A6C3BC5-2A71-45F2-8551-95F9EB57FDC6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{ABB70179-54A0-4522-B5C3-CFE73F85A5D2}"
 EndProject
