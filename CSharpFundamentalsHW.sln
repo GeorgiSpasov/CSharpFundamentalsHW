@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.9.PrintSequence", "PrintS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.15.Age", "Age\1.15.Age.csproj", "{2B469A53-A651-4909-A2B0-54B6B9F7ED34}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.16.LongSequence", "LongSequence\01.16.LongSequence.csproj", "{2B1F4F63-BF64-43EC-BF71-3DD4CB994183}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.16.LongSequence", "LongSequence\1.16.LongSequence.csproj", "{2B1F4F63-BF64-43EC-BF71-3DD4CB994183}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.7.QuotesInStrings", "QuotesInStrings\2.7.QuotesInStrings.csproj", "{A5F17537-CC75-4B80-BD2F-D5F0DAEA7F81}"
 EndProject
