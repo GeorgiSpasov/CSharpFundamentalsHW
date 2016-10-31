@@ -45,7 +45,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.08.PrimeCheck", "PrimeChe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.13.ModifyBit", "ModifyBit\3.13.ModifyBit.csproj", "{1F7C0682-ACB9-4BB9-8521-E9DA6C8D2B85}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfThreeNumbers", "SumOfThreeNumbers\SumOfThreeNumbers.csproj", "{13483387-ACB4-4E63-AF4C-63A9E028D2F2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.01.SumOfThreeNumbers", "SumOfThreeNumbers\4.01.SumOfThreeNumbers.csproj", "{13483387-ACB4-4E63-AF4C-63A9E028D2F2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompanyInfo", "CompanyInfo\CompanyInfo.csproj", "{F849EFCA-2BBC-42AC-8884-EE4A50D8042D}"
 EndProject
