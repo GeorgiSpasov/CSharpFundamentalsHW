@@ -37,7 +37,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.07.PointInACircle", "Poin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.09.Trapezoids", "Trapezoids\3.09.Trapezoids.csproj", "{4DFE3D3E-23D8-416D-B55D-34D240478C4F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThirdBit", "ThirdBit\ThirdBit.csproj", "{54BF57B9-5C3E-40B4-B208-20199037E6EE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.11.ThirdBit", "ThirdBit\3.11.ThirdBit.csproj", "{54BF57B9-5C3E-40B4-B208-20199037E6EE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NBit", "NBit\NBit.csproj", "{95AF4A08-F926-4A6F-BF70-DBB3821E03AD}"
 EndProject
