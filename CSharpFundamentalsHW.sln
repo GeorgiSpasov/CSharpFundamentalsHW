@@ -81,6 +81,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.07.Sort3Numbers", "Sort3N
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.08.DigitAsWord", "DigitAsWord\5.08.DigitAsWord.csproj", "{FF58A030-A565-4FE9-AE0B-6A6BC221B741}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.09.IntDoubleAndString", "IntDoubleAndString\5.09.IntDoubleAndString.csproj", "{775491CC-C05C-4B20-A56A-347AC5523A81}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -243,6 +245,10 @@ Global
 		{FF58A030-A565-4FE9-AE0B-6A6BC221B741}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF58A030-A565-4FE9-AE0B-6A6BC221B741}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF58A030-A565-4FE9-AE0B-6A6BC221B741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775491CC-C05C-4B20-A56A-347AC5523A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775491CC-C05C-4B20-A56A-347AC5523A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775491CC-C05C-4B20-A56A-347AC5523A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775491CC-C05C-4B20-A56A-347AC5523A81}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
