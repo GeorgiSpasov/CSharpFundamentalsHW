@@ -53,7 +53,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.03.Circle", "Circle\4.03.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.05.NumbersComparer", "NumberComparer\4.05.NumbersComparer.csproj", "{2A6C3BC5-2A71-45F2-8551-95F9EB57FDC6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadraticEquation", "QuadraticEquation\QuadraticEquation.csproj", "{ABB70179-54A0-4522-B5C3-CFE73F85A5D2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.06.QuadraticEquation", "QuadraticEquation\4.06.QuadraticEquation.csproj", "{ABB70179-54A0-4522-B5C3-CFE73F85A5D2}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfFiveNumbers", "SumOfFiveNumbers\SumOfFiveNumbers.csproj", "{97AB37C9-B82F-4140-A423-A2B4E50D7112}"
 EndProject
