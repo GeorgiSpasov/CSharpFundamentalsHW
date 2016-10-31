@@ -61,7 +61,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.08.NumbersFrom1toN", "Num
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.09.SumOfNNumbers", "SumOfNNumbers\4.09.SumOfNNumbers.csproj", "{8553F8D8-440D-43FE-A7A5-880F17426D28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciNumbers", "FibonacciNumbers\FibonacciNumbers.csproj", "{CD485263-0171-4065-B5F9-3AB7D2805356}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.10.FibonacciNumbers", "FibonacciNumbers\4.10.FibonacciNumbers.csproj", "{CD485263-0171-4065-B5F9-3AB7D2805356}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interval", "Interval\Interval.csproj", "{6B447753-F5F1-402C-B10B-3D160E15CDD7}"
 EndProject
