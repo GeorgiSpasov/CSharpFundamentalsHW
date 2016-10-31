@@ -15,7 +15,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.15.Age", "Age\1.15.Age.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.16.LongSequence", "LongSequence\1.16.LongSequence.csproj", "{2B1F4F63-BF64-43EC-BF71-3DD4CB994183}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuotesInStrings", "QuotesInStrings\QuotesInStrings.csproj", "{A5F17537-CC75-4B80-BD2F-D5F0DAEA7F81}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.7.QuotesInStrings", "QuotesInStrings\2.7.QuotesInStrings.csproj", "{A5F17537-CC75-4B80-BD2F-D5F0DAEA7F81}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComparingFloats", "ComparingFloats\ComparingFloats.csproj", "{D7CA75ED-2098-4CFA-96B3-A86F3971931A}"
 EndProject
