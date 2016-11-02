@@ -107,7 +107,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.10.OddAndEvenProduct", "O
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.11.BinaryToDecimal", "BinaryToDecimal\6.11.BinaryToDecimal.csproj", "{80F84A77-36AC-4122-8786-72A7134C2ABB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecimalToBinary", "DecimalToBinary\DecimalToBinary.csproj", "{8D5EE1AC-DDAE-49B7-98DF-C53548B38CE5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.12.DecimalToBinary", "DecimalToBinary\6.12.DecimalToBinary.csproj", "{8D5EE1AC-DDAE-49B7-98DF-C53548B38CE5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
