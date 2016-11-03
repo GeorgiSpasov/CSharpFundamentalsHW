@@ -117,6 +117,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.15.GCD", "GCD\6.15.GCD.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.16.Trailing0inN", "Trailing0inN\6.16.Trailing0inN.csproj", "{FF719559-75EA-4591-87B7-C9D024E975DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.17.SpiralMatrix", "SpiralMatrix\6.17.SpiralMatrix.csproj", "{8A470E5E-590B-4DA5-A8CE-F15C8A665EC9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -351,6 +353,10 @@ Global
 		{FF719559-75EA-4591-87B7-C9D024E975DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF719559-75EA-4591-87B7-C9D024E975DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF719559-75EA-4591-87B7-C9D024E975DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A470E5E-590B-4DA5-A8CE-F15C8A665EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A470E5E-590B-4DA5-A8CE-F15C8A665EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A470E5E-590B-4DA5-A8CE-F15C8A665EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A470E5E-590B-4DA5-A8CE-F15C8A665EC9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
