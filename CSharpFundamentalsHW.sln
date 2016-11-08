@@ -121,6 +121,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.17.SpiralMatrix", "Spiral
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.1.BirdsAndFeathers", "BirdsAndFeathers\0.1.BirdsAndFeathers.csproj", "{24755530-B0FF-4803-B26E-A8612D6F5F5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.01.AllocateArray", "AllocateArray\7.01.AllocateArray.csproj", "{ADC2E941-D28F-44BF-B6E3-D36ABD442881}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -363,6 +365,10 @@ Global
 		{24755530-B0FF-4803-B26E-A8612D6F5F5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24755530-B0FF-4803-B26E-A8612D6F5F5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24755530-B0FF-4803-B26E-A8612D6F5F5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADC2E941-D28F-44BF-B6E3-D36ABD442881}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADC2E941-D28F-44BF-B6E3-D36ABD442881}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADC2E941-D28F-44BF-B6E3-D36ABD442881}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADC2E941-D28F-44BF-B6E3-D36ABD442881}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
