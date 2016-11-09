@@ -125,6 +125,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.01.AllocateArray", "Alloc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.02.CompareArrays", "CompareArrays\7.02.CompareArrays.csproj", "{4C3705AB-1464-499B-BD2F-A5E9BCA38B78}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.03.CompareCharArrays", "CompareCharArrays\7.03.CompareCharArrays.csproj", "{84DE1926-41DF-4353-BBA6-5BD0D06779B0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -375,6 +377,10 @@ Global
 		{4C3705AB-1464-499B-BD2F-A5E9BCA38B78}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C3705AB-1464-499B-BD2F-A5E9BCA38B78}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C3705AB-1464-499B-BD2F-A5E9BCA38B78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84DE1926-41DF-4353-BBA6-5BD0D06779B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84DE1926-41DF-4353-BBA6-5BD0D06779B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84DE1926-41DF-4353-BBA6-5BD0D06779B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84DE1926-41DF-4353-BBA6-5BD0D06779B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
