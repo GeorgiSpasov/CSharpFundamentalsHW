@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{24755530-B0FF-4803-B26E-A8612D6F5F5E}</ProjectGuid>
+    <ProjectGuid>{F04A6724-6DC9-44B5-8960-171D4E8A7C43}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>BirdsAndFeathers</RootNamespace>
-    <AssemblyName>BirdsAndFeathers</AssemblyName>
+    <RootNamespace>MixingNumbers</RootNamespace>
+    <AssemblyName>MixingNumbers</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BirdsAndFeathers.cs" />
+    <Compile Include="MixingNumbers.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
